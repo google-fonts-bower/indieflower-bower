@@ -1,0 +1,17 @@
+{
+    "name": "indieflower-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/indieflower-bower.git"
+    },
+    "description": "Indie Flower font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
